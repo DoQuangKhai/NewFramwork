@@ -1,4 +1,4 @@
-package com.vsii.tsc.project;
+package com.vsii.tsc.project.testcase;
 
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;

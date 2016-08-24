@@ -1,4 +1,4 @@
-package com.vsii.tsc.project;
+package com.vsii.tsc.project.testcase;
 
 import org.openqa.selenium.By;
 import org.testng.annotations.Test;

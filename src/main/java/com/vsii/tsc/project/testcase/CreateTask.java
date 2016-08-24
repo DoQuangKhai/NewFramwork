@@ -16,13 +16,13 @@ import com.vsii.tsc.framework.utility.CommonMethods;
 import com.vsii.tsc.framework.utility.CommonOperations;
 import com.vsii.tsc.framework.utility.GetAccountInfo;
 import com.vsii.tsc.framework.utility.TestBase;
+import com.vsii.tsc.project.TestData;
 import com.vsii.tsc.project.pages.method.DetailProjectPageMethod;
 import com.vsii.tsc.project.pages.method.DetailTaskPageMethod;
 import com.vsii.tsc.project.pages.method.LoginPageMethod;
 import com.vsii.tsc.project.pages.method.LogoutPageMethod;
 import com.vsii.tsc.project.pages.method.ProjectsPageMethod;
 import com.vsii.tsc.project.pages.method.TasksPageMethod;
-import com.vsii.tsc.project.testdata.TestData;
 
 public class CreateTask {
 	LoginPageMethod objLogin;
