@@ -15,7 +15,6 @@ import org.testng.annotations.Test;
 
 import com.vsii.tsc.framework.utility.CommonOperations;
 import com.vsii.tsc.framework.utility.TestBase;
-import com.vsii.tsc.project.TestData;
 import com.vsii.tsc.project.pages.method.LoginPageMethod;
 import com.vsii.tsc.project.pages.method.TS_CreateTSMethod;
 import com.vsii.tsc.project.pages.method.TS_CurrentTSMethod;
@@ -26,6 +25,7 @@ import com.vsii.tsc.project.pages.method.TS_MyTimesheetMethod;
 import com.vsii.tsc.project.pages.method.TS_PMOViewMethod;
 import com.vsii.tsc.project.pages.method.TS_TSToValidateMethod;
 import com.vsii.tsc.project.pages.method.TS_TaskMethod;
+import com.vsii.tsc.project.testdata.TestData;
 
 public class TS_Timesheet extends TestBase {
 	Properties p;

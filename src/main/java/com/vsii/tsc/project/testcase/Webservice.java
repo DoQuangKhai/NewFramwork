@@ -13,7 +13,6 @@ import org.testng.annotations.Test;
 import com.vsii.tsc.framework.utility.CommonMethods;
 import com.vsii.tsc.framework.utility.CommonOperations;
 import com.vsii.tsc.framework.utility.TestBase;
-import com.vsii.tsc.project.TestData;
 import com.vsii.tsc.project.pages.method.JiraBrowseProjectPageMethod;
 import com.vsii.tsc.project.pages.method.JiraDashBoardMethod;
 import com.vsii.tsc.project.pages.method.JiraLoginPageMethod;
@@ -24,6 +23,7 @@ import com.vsii.tsc.project.pages.method.ProjectsPageMethod;
 import com.vsii.tsc.project.pages.method.TasksPageMethod;
 import com.vsii.tsc.project.pages.method.VSIIProjectPageMethod;
 import com.vsii.tsc.project.pages.method.WebServiceMethod;
+import com.vsii.tsc.project.testdata.TestData;
 
 public class Webservice {
 	LoginPageMethod objLogin;

@@ -1,4 +1,4 @@
-package com.vsii.tsc.project;
+package com.vsii.tsc.project.testdata;
 
 import org.testng.annotations.DataProvider;
 

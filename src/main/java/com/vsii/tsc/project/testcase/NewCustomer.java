@@ -9,10 +9,10 @@ import org.testng.annotations.Test;
 import com.vsii.tsc.framework.utility.CommonMethods;
 import com.vsii.tsc.framework.utility.CommonOperations;
 import com.vsii.tsc.framework.utility.TestBase;
-import com.vsii.tsc.project.TestData;
 import com.vsii.tsc.project.pages.method.EditCustomerPageMethod;
 import com.vsii.tsc.project.pages.method.LoginPageMethod;
 import com.vsii.tsc.project.pages.method.NewCustomerPageMethod;
+import com.vsii.tsc.project.testdata.TestData;
 
 public class NewCustomer{
 	LoginPageMethod objLogin;

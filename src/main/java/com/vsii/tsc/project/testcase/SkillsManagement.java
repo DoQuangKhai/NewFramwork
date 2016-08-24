@@ -12,7 +12,6 @@ import org.testng.annotations.Test;
 import com.vsii.tsc.framework.utility.CommonMethods;
 import com.vsii.tsc.framework.utility.CommonOperations;
 import com.vsii.tsc.framework.utility.TestBase;
-import com.vsii.tsc.project.TestData;
 import com.vsii.tsc.project.pages.method.CategoriesPageMethod;
 import com.vsii.tsc.project.pages.method.CreateCategoryPageMethod;
 import com.vsii.tsc.project.pages.method.CreateSkillPageMethod;
@@ -23,6 +22,7 @@ import com.vsii.tsc.project.pages.method.LogoutPageMethod;
 import com.vsii.tsc.project.pages.method.PMHomePageMethod;
 import com.vsii.tsc.project.pages.method.SettingsPageMethod;
 import com.vsii.tsc.project.pages.method.SkillsPageMethod;
+import com.vsii.tsc.project.testdata.TestData;
 
 public class SkillsManagement extends TestBase{
 	LoginPageMethod objLoginPage;
