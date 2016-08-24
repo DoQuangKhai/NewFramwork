@@ -16,8 +16,6 @@ import javax.mail.internet.MimeBodyPart;
 import javax.mail.internet.MimeMessage;
 import javax.mail.internet.MimeMultipart;
 
-import com.vsii.tsc.project.CommonOperations;
-
 public class SendMail {
 
  public static void execute() throws Exception {

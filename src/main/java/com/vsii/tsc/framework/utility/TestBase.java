@@ -1,4 +1,4 @@
-package com.vsii.tsc.project;
+package com.vsii.tsc.framework.utility;
 
 import java.io.IOException;
 import java.net.URL;
@@ -20,7 +20,6 @@ import org.testng.annotations.BeforeSuite;
 
 import com.relevantcodes.extentreports.ExtentReports;
 import com.relevantcodes.extentreports.ExtentTest;
-import com.vsii.tsc.framework.utility.DownloadUploadFile;
 import com.vsii.tsc.project.model.TCImageResults;
 
 public class TestBase {

@@ -13,9 +13,9 @@ import org.testng.annotations.BeforeGroups;
 import org.testng.annotations.Test;
 
 import com.vsii.tsc.framework.utility.CommonMethods;
+import com.vsii.tsc.framework.utility.CommonOperations;
 import com.vsii.tsc.framework.utility.GetAccountInfo;
-import com.vsii.tsc.project.CommonOperations;
-import com.vsii.tsc.project.TestBase;
+import com.vsii.tsc.framework.utility.TestBase;
 import com.vsii.tsc.project.pages.method.DetailProjectPageMethod;
 import com.vsii.tsc.project.pages.method.DetailTaskPageMethod;
 import com.vsii.tsc.project.pages.method.LoginPageMethod;

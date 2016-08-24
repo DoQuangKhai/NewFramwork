@@ -1,4 +1,4 @@
-package com.vsii.tsc.project;
+package com.vsii.tsc.framework.utility;
 
 import java.awt.Rectangle;
 import java.awt.Robot;
@@ -25,7 +25,6 @@ import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.ITestResult;
 
-import com.vsii.tsc.framework.utility.DateTime;
 import com.vsii.tsc.project.model.TCImageResults;
 
 @SuppressWarnings("deprecation")
