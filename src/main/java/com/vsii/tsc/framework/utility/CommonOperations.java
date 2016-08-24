@@ -25,7 +25,7 @@ import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.ITestResult;
 
-import com.vsii.tsc.project.TCImageResults;
+import com.vsii.tsc.project.model.TCImageResults;
 
 @SuppressWarnings("deprecation")
 public class CommonOperations {

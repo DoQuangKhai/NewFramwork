@@ -22,8 +22,8 @@ import org.apache.poi.xssf.usermodel.XSSFRow;
 import org.apache.poi.xssf.usermodel.XSSFSheet;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 
-import com.vsii.tsc.project.TCImageResults;
-import com.vsii.tsc.project.TestCase;
+import com.vsii.tsc.project.model.TCImageResults;
+import com.vsii.tsc.project.model.TestCase;
 
 public class ExcelHandle {
 

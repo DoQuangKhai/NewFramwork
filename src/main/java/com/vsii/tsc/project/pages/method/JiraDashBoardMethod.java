@@ -3,7 +3,7 @@ package com.vsii.tsc.project.pages.method;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.PageFactory;
 
-import com.vsii.tsc.project.pages.JiraDashboardPage;
+import com.vsii.tsc.project.JiraDashboardPage;
 
 public class JiraDashBoardMethod {
 

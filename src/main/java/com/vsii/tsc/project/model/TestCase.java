@@ -1,4 +1,4 @@
-package com.vsii.tsc.project;
+package com.vsii.tsc.project.model;
 
 import java.util.List;
 

@@ -12,7 +12,7 @@ import org.testng.ITestResult;
 import com.relevantcodes.extentreports.ExtentReports;
 import com.relevantcodes.extentreports.ExtentTest;
 import com.relevantcodes.extentreports.LogStatus;
-import com.vsii.tsc.project.TestCase;
+import com.vsii.tsc.project.model.TestCase;
 
 public class ReportHandle {
 	/* Use for exportExcelReport()*/
