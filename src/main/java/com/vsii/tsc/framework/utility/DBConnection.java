@@ -7,6 +7,8 @@ import java.sql.ResultSet;
 import java.sql.Statement;
 import java.util.Properties;
 
+import com.vsii.tsc.project.CommonOperations;
+
 public class DBConnection {
 static Properties p;	
 	public static ResultSet connectSQLServer(String sqlCommandName) throws IOException{

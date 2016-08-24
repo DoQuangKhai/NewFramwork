@@ -5,7 +5,7 @@ import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 
 import com.vsii.tsc.framework.utility.CommonMethods;
-import com.vsii.tsc.framework.utility.TestBase;
+import com.vsii.tsc.project.TestBase;
 import com.vsii.tsc.project.pages.ProjectCreateNew;
 import com.vsii.tsc.project.pages.method.LoginPageMethod;
 import com.vsii.tsc.project.pages.method.ProjectCreateNewMethod;

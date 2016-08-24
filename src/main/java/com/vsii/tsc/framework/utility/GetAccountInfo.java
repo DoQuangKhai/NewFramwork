@@ -1,5 +1,8 @@
 package com.vsii.tsc.framework.utility;
 
+import com.vsii.tsc.project.TestBase;
+
+
 
 public class GetAccountInfo {
 	public static String getAdminName() {
