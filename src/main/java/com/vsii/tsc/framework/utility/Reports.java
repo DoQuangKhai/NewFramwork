@@ -15,7 +15,7 @@ import org.testng.xml.XmlSuite;
 import com.relevantcodes.extentreports.ExtentReports;
 import com.relevantcodes.extentreports.ExtentTest;
 import com.relevantcodes.extentreports.LogStatus;
-import com.vsii.tsc.project.model.TestCase;
+import com.vsii.tsc.project.TestCase;
 
 public class Reports implements IReporter {
 	public static ExtentReports extent;

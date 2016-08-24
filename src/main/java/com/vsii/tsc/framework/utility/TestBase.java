@@ -20,7 +20,7 @@ import org.testng.annotations.BeforeSuite;
 
 import com.relevantcodes.extentreports.ExtentReports;
 import com.relevantcodes.extentreports.ExtentTest;
-import com.vsii.tsc.project.model.TCImageResults;
+import com.vsii.tsc.project.TCImageResults;
 
 public class TestBase {
 	public static WebDriver driver;
