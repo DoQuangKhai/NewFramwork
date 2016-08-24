@@ -6,9 +6,9 @@ import org.testng.annotations.Test;
 
 import com.vsii.tsc.framework.utility.CommonMethods;
 import com.vsii.tsc.framework.utility.TestBase;
-import com.vsii.tsc.project.LoginPageMethod;
-import com.vsii.tsc.project.ProjectCreateNewMethod;
 import com.vsii.tsc.project.pages.ProjectCreateNew;
+import com.vsii.tsc.project.pages.method.LoginPageMethod;
+import com.vsii.tsc.project.pages.method.ProjectCreateNewMethod;
 import com.vsii.tsc.project.pages.method.ProjectGroupPageMethod;
 import com.vsii.tsc.project.pages.method.ProjectListPageMethod;
 

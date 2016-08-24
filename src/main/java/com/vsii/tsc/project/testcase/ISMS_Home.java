@@ -9,7 +9,7 @@ import org.testng.annotations.Test;
 
 import com.vsii.tsc.framework.utility.CommonOperations;
 import com.vsii.tsc.framework.utility.TestBase;
-import com.vsii.tsc.project.ISMSMethod;
+import com.vsii.tsc.project.pages.method.ISMSMethod;
 import com.vsii.tsc.project.pages.method.ISMS_LoginPageMethod;
 import com.vsii.tsc.project.testdata.TestData;
 
