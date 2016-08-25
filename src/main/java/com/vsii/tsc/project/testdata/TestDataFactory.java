@@ -2,8 +2,8 @@ package com.vsii.tsc.project.testdata;
 
 import org.testng.annotations.Factory;
 
-import com.vsii.tsc.project.testcase.EditCustomer;
-import com.vsii.tsc.project.testcase.NewCustomer;
+import com.vsii.tsc.project.testcase.customer.EditCustomer;
+import com.vsii.tsc.project.testcase.customer.NewCustomer;
 
 public class TestDataFactory {
 	 //@Factory

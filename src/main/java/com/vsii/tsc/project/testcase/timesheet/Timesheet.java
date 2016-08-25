@@ -1,4 +1,4 @@
-package com.vsii.tsc.project.testcase;
+package com.vsii.tsc.project.testcase.timesheet;
 
 import java.io.IOException;
 import java.text.ParseException;
@@ -27,7 +27,7 @@ import com.vsii.tsc.project.pages.method.TS_TSToValidateMethod;
 import com.vsii.tsc.project.pages.method.TS_TaskMethod;
 import com.vsii.tsc.project.testdata.TestData;
 
-public class TS_Timesheet extends TestBase {
+public class Timesheet extends TestBase {
 	Properties p;
 	LoginPageMethod objLogin;
 	TS_MainPageMethod objMainPage;
