@@ -1,4 +1,4 @@
-package com.vsii.tsc.project.testcase;
+package com.vsii.tsc.project.testcase.testfunction;
 
 
 import org.openqa.selenium.WebDriver;
