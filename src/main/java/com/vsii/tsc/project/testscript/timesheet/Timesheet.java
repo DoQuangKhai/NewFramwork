@@ -1,4 +1,4 @@
-package com.vsii.tsc.project.testcase.timesheet;
+package com.vsii.tsc.project.testscript.timesheet;
 
 import java.io.IOException;
 import java.text.ParseException;

@@ -1,4 +1,4 @@
-package com.vsii.tsc.project.testcase.testfunction;
+package com.vsii.tsc.project.testscript.testfunction;
 
 import org.openqa.selenium.By;
 import org.testng.annotations.Test;

@@ -1,4 +1,4 @@
-package com.vsii.tsc.project.testcase.task;
+package com.vsii.tsc.project.testscript.task;
 
 import java.io.IOException;
 

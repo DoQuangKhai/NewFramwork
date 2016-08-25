@@ -1,4 +1,4 @@
-package com.vsii.tsc.project.testcase.customer;
+package com.vsii.tsc.project.testscript.customer;
 
 import java.io.IOException;
 

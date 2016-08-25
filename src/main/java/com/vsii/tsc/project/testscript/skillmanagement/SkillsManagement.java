@@ -1,4 +1,4 @@
-package com.vsii.tsc.project.testcase.skillmanagement;
+package com.vsii.tsc.project.testscript.skillmanagement;
 
 import java.io.IOException;
 

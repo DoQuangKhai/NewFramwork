@@ -1,4 +1,4 @@
-package com.vsii.tsc.project.testcase.isms;
+package com.vsii.tsc.project.testscript.isms;
 
 import java.io.IOException;
 
