@@ -14,7 +14,7 @@ import org.openqa.selenium.support.ui.Select;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.Assert;
 
-import com.vsii.tsc.framework.utility.TestBase;
+import com.vsii.tsc.core.utility.TestBase;
 import com.vsii.tsc.project.pages.ISMSPage;
 import com.vsii.tsc.project.pages.ISMS_ProjectPage;
 

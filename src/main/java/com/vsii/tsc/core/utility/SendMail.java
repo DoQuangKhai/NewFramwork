@@ -1,4 +1,4 @@
-package com.vsii.tsc.framework.utility;
+package com.vsii.tsc.core.utility;
 
 import java.util.Properties;
 

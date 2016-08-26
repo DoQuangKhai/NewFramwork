@@ -12,10 +12,10 @@ import org.testng.annotations.BeforeClass;
 import org.testng.annotations.BeforeGroups;
 import org.testng.annotations.Test;
 
-import com.vsii.tsc.framework.utility.CommonMethods;
-import com.vsii.tsc.framework.utility.CommonOperations;
-import com.vsii.tsc.framework.utility.GetAccountInfo;
-import com.vsii.tsc.framework.utility.TestBase;
+import com.vsii.tsc.core.utility.CommonMethods;
+import com.vsii.tsc.core.utility.CommonOperations;
+import com.vsii.tsc.core.utility.GetAccountInfo;
+import com.vsii.tsc.core.utility.TestBase;
 import com.vsii.tsc.project.pages.method.DetailProjectPageMethod;
 import com.vsii.tsc.project.pages.method.DetailTaskPageMethod;
 import com.vsii.tsc.project.pages.method.LoginPageMethod;

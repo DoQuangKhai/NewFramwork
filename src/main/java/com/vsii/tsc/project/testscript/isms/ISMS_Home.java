@@ -7,8 +7,8 @@ import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 
-import com.vsii.tsc.framework.utility.CommonOperations;
-import com.vsii.tsc.framework.utility.TestBase;
+import com.vsii.tsc.core.utility.CommonOperations;
+import com.vsii.tsc.core.utility.TestBase;
 import com.vsii.tsc.project.pages.method.ISMSMethod;
 import com.vsii.tsc.project.pages.method.ISMS_LoginPageMethod;
 import com.vsii.tsc.project.testdata.TestData;

@@ -16,7 +16,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.Color;
 import org.openqa.selenium.support.PageFactory;
 
-import com.vsii.tsc.framework.utility.CommonOperations;
+import com.vsii.tsc.core.utility.CommonOperations;
 import com.vsii.tsc.project.pages.TS_DepartmentTSPage;
 
 public class TS_DepartmentTSMethod {

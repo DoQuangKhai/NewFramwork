@@ -7,7 +7,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.PageFactory;
 import org.testng.Assert;
 
-import com.vsii.tsc.framework.utility.CommonOperations;
+import com.vsii.tsc.core.utility.CommonOperations;
 import com.vsii.tsc.project.pages.TS_HRPage;
 
 public class TS_HRPageMethod {

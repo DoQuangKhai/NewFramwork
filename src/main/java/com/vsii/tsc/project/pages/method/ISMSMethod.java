@@ -10,7 +10,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.PageFactory;
 import org.testng.Assert;
 
-import com.vsii.tsc.framework.utility.TestBase;
+import com.vsii.tsc.core.utility.TestBase;
 import com.vsii.tsc.project.pages.ISMSPage;
 
 public class ISMSMethod

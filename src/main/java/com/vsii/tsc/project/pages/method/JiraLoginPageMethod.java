@@ -3,7 +3,7 @@ package com.vsii.tsc.project.pages.method;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.PageFactory;
 
-import com.vsii.tsc.framework.utility.TestBase;
+import com.vsii.tsc.core.utility.TestBase;
 import com.vsii.tsc.project.pages.JiraLoginPage;
 
 public class JiraLoginPageMethod extends TestBase {

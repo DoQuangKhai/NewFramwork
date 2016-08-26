@@ -2,7 +2,7 @@ package com.vsii.tsc.project.testdata;
 
 import org.testng.annotations.DataProvider;
 
-import com.vsii.tsc.framework.utility.ExcelHandle;
+import com.vsii.tsc.core.utility.ExcelHandle;
 
 public class TestData {
 	@DataProvider(name="reset")

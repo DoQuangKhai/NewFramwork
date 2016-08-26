@@ -13,8 +13,8 @@ import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
-import com.vsii.tsc.framework.utility.CommonOperations;
-import com.vsii.tsc.framework.utility.TestBase;
+import com.vsii.tsc.core.utility.CommonOperations;
+import com.vsii.tsc.core.utility.TestBase;
 import com.vsii.tsc.project.pages.method.LoginPageMethod;
 import com.vsii.tsc.project.pages.method.TS_CreateTSMethod;
 import com.vsii.tsc.project.pages.method.TS_CurrentTSMethod;

@@ -7,7 +7,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.PageFactory;
 
 import com.relevantcodes.extentreports.ExtentReports;
-import com.vsii.tsc.framework.utility.CommonMethods;
+import com.vsii.tsc.core.utility.CommonMethods;
 import com.vsii.tsc.project.pages.LoginPage;
 
 public class LoginPageMethod {

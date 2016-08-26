@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 
-import com.vsii.tsc.framework.utility.DBConnection;
+import com.vsii.tsc.core.utility.DBConnection;
 
 public class testDatabase {
 

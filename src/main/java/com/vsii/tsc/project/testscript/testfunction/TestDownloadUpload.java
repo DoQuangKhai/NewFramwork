@@ -3,8 +3,8 @@ package com.vsii.tsc.project.testscript.testfunction;
 import org.openqa.selenium.By;
 import org.testng.annotations.Test;
 
-import com.vsii.tsc.framework.utility.DownloadUploadFile;
-import com.vsii.tsc.framework.utility.TestBase;
+import com.vsii.tsc.core.utility.DownloadUploadFile;
+import com.vsii.tsc.core.utility.TestBase;
 
 public class TestDownloadUpload {
 	

@@ -6,7 +6,7 @@ import java.util.Properties;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.PageFactory;
 
-import com.vsii.tsc.framework.utility.CommonOperations;
+import com.vsii.tsc.core.utility.CommonOperations;
 import com.vsii.tsc.project.pages.TS_PMOViewPage;
 
 public class TS_PMOViewMethod {
